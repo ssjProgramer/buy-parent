@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <resourceExtensions />
+    <annotationProcessing>
+      <profile default="true" name="Default" enabled="false">
+        <processorPath useClasspath="true" />
+      </profile>
+      <profile default="false" name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <processorPath useClasspath="true" />
+        <module name="buy-manager" />
+        <module name="buy-protal" />
+        <module name="study-web" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="buy-common" target="1.5" />
+      <module name="buy-manager" target="1.5" />
+      <module name="buy-parent" target="1.5" />
+      <module name="buy-protal" target="1.5" />
+      <module name="study-web" target="1.7" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

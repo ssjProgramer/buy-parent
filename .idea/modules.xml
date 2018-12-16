@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/buy-common/buy-common.iml" filepath="$PROJECT_DIR$/buy-common/buy-common.iml" />
+      <module fileurl="file://$PROJECT_DIR$/buy-common/buy-manager/buy-manager.iml" filepath="$PROJECT_DIR$/buy-common/buy-manager/buy-manager.iml" />
+      <module fileurl="file://$PROJECT_DIR$/buy-parent.iml" filepath="$PROJECT_DIR$/buy-parent.iml" />
+      <module fileurl="file://$PROJECT_DIR$/buy-common/buy-protal/buy-protal.iml" filepath="$PROJECT_DIR$/buy-common/buy-protal/buy-protal.iml" />
+      <module fileurl="file://$PROJECT_DIR$/study-web/study-web.iml" filepath="$PROJECT_DIR$/study-web/study-web.iml" />
+    </modules>
+  </component>
+</project>
