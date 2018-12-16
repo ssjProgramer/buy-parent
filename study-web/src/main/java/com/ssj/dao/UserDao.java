@@ -9,7 +9,6 @@ import org.apache.ibatis.annotations.Select;
  * @Modified By:
  */
 public interface UserDao {
-
     //@Select("select * from t_user where id = 1")
     //public User queryById();
 }

@@ -7,284 +7,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="0b45435a-e07b-45c1-91e5-8cbe6e0bafa7" name="Default Changelist" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/buy-common/buy-manager/target/buy-manager-1.0-SNAPSHOT.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/buy-common/buy-protal/target/buy-protal-1.0-SNAPSHOT.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/study_web_war_exploded/WEB-INF/classes/com/ssj/controller/UserController.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/study_web_war_exploded/WEB-INF/classes/com/ssj/dao/User.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/study_web_war_exploded/WEB-INF/classes/com/ssj/dao/UserDao.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/study_web_war_exploded/WEB-INF/classes/com/ssj/service/UserService.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/study_web_war_exploded/WEB-INF/classes/com/ssj/serviceImpl/UserServiceImpl.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/study_web_war_exploded/WEB-INF/lib/activation-1.1.1.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/study_web_war_exploded/WEB-INF/lib/activiti-bpmn-converter-5.15.1.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/study_web_war_exploded/WEB-INF/lib/activiti-bpmn-layout-5.15.1.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/study_web_war_exploded/WEB-INF/lib/activiti-bpmn-model-5.15.1.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/study_web_war_exploded/WEB-INF/lib/activiti-engine-5.15.1.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/study_web_war_exploded/WEB-INF/lib/activiti-explorer-5.15.1.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/study_web_war_exploded/WEB-INF/lib/activiti-json-converter-5.15.1.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/study_web_war_exploded/WEB-INF/lib/activiti-process-validation-5.15.1.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/study_web_war_exploded/WEB-INF/lib/activiti-simple-workflow-5.15.1.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/study_web_war_exploded/WEB-INF/lib/activiti-spring-5.15.1.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/study_web_war_exploded/WEB-INF/lib/aopalliance-1.0.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/study_web_war_exploded/WEB-INF/lib/asm-3.1.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/study_web_war_exploded/WEB-INF/lib/aspectjweaver-1.6.8.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/study_web_war_exploded/WEB-INF/lib/c3p0-0.9.2.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/study_web_war_exploded/WEB-INF/lib/cglib-2.2.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/study_web_war_exploded/WEB-INF/lib/commons-codec-1.5.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/study_web_war_exploded/WEB-INF/lib/commons-collections-3.1.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/study_web_war_exploded/WEB-INF/lib/commons-dbcp-1.4.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/study_web_war_exploded/WEB-INF/lib/commons-email-1.3.1.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/study_web_war_exploded/WEB-INF/lib/commons-fileupload-1.3.1.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/study_web_war_exploded/WEB-INF/lib/commons-io-2.2.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/study_web_war_exploded/WEB-INF/lib/commons-lang3-3.1.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/study_web_war_exploded/WEB-INF/lib/commons-logging-1.1.1.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/study_web_war_exploded/WEB-INF/lib/commons-pool-1.5.4.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/study_web_war_exploded/WEB-INF/lib/dcharts-widget-0.10.0.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/study_web_war_exploded/WEB-INF/lib/ehcache-1.6.2.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/study_web_war_exploded/WEB-INF/lib/el-api-2.1.2-b05.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/study_web_war_exploded/WEB-INF/lib/freemarker-2.3.19.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/study_web_war_exploded/WEB-INF/lib/h2-1.3.170.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/study_web_war_exploded/WEB-INF/lib/imgscalr-lib-4.2.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/study_web_war_exploded/WEB-INF/lib/jackson-core-asl-1.9.2.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/study_web_war_exploded/WEB-INF/lib/jackson-mapper-asl-1.9.2.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/study_web_war_exploded/WEB-INF/lib/javaGeom-0.11.1.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/study_web_war_exploded/WEB-INF/lib/jcl-over-slf4j-1.7.6.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/study_web_war_exploded/WEB-INF/lib/jcommon-1.0.23.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/study_web_war_exploded/WEB-INF/lib/jfreechart-1.0.19.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/study_web_war_exploded/WEB-INF/lib/jgraphx-1.10.4.1.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/study_web_war_exploded/WEB-INF/lib/joda-time-2.1.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/study_web_war_exploded/WEB-INF/lib/jstl-1.2.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/study_web_war_exploded/WEB-INF/lib/jta-1.1.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/study_web_war_exploded/WEB-INF/lib/log4j-1.2.17.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/study_web_war_exploded/WEB-INF/lib/mail-1.4.5.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/study_web_war_exploded/WEB-INF/lib/mchange-commons-java-0.2.3.3.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/study_web_war_exploded/WEB-INF/lib/mybatis-3.2.8.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/study_web_war_exploded/WEB-INF/lib/mybatis-spring-1.2.2.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/study_web_war_exploded/WEB-INF/lib/mysql-connector-java-5.1.37.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/study_web_war_exploded/WEB-INF/lib/poi-3.9.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/study_web_war_exploded/WEB-INF/lib/quartz-1.8.5.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/study_web_war_exploded/WEB-INF/lib/slf4j-api-1.7.7.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/study_web_war_exploded/WEB-INF/lib/slf4j-log4j12-1.7.7.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/study_web_war_exploded/WEB-INF/lib/spring-aop-4.0.0.RELEASE.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/study_web_war_exploded/WEB-INF/lib/spring-beans-4.0.0.RELEASE.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/study_web_war_exploded/WEB-INF/lib/spring-context-4.0.0.RELEASE.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/study_web_war_exploded/WEB-INF/lib/spring-context-support-4.0.0.RELEASE.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/study_web_war_exploded/WEB-INF/lib/spring-core-4.0.0.RELEASE.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/study_web_war_exploded/WEB-INF/lib/spring-expression-4.0.0.RELEASE.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/study_web_war_exploded/WEB-INF/lib/spring-jdbc-4.0.0.RELEASE.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/study_web_war_exploded/WEB-INF/lib/spring-orm-4.0.0.RELEASE.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/study_web_war_exploded/WEB-INF/lib/spring-tx-4.0.0.RELEASE.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/study_web_war_exploded/WEB-INF/lib/spring-web-4.0.0.RELEASE.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/study_web_war_exploded/WEB-INF/lib/spring-webmvc-4.0.0.RELEASE.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/study_web_war_exploded/WEB-INF/lib/vaadin-6.8.8.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/study_web_war_exploded/bootstrap/fonts/glyphicons-halflings-regular.eot" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/study_web_war_exploded/bootstrap/fonts/glyphicons-halflings-regular.ttf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/study_web_war_exploded/bootstrap/fonts/glyphicons-halflings-regular.woff" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/study_web_war_exploded/bootstrap/fonts/glyphicons-halflings-regular.woff2" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/study_web_war_exploded/fonts/FontAwesome.otf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/study_web_war_exploded/fonts/fontawesome-webfont.eot" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/study_web_war_exploded/fonts/fontawesome-webfont.ttf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/study_web_war_exploded/fonts/fontawesome-webfont.woff" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/study_web_war_exploded/fonts/fontawesome4.2/FontAwesome.otf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/study_web_war_exploded/fonts/fontawesome4.2/fontawesome-webfont.eot" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/study_web_war_exploded/fonts/fontawesome4.2/fontawesome-webfont.ttf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/study_web_war_exploded/fonts/fontawesome4.2/fontawesome-webfont.woff" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/study_web_war_exploded/fonts/glyphicons-halflings-regular.eot" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/study_web_war_exploded/fonts/glyphicons-halflings-regular.ttf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/study_web_war_exploded/fonts/glyphicons-halflings-regular.woff" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/study_web_war_exploded/img/carousel-1.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/study_web_war_exploded/img/carousel-2.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/study_web_war_exploded/img/carousel-3.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/study_web_war_exploded/img/logo.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/study_web_war_exploded/img/p1.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/study_web_war_exploded/img/p2.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/study_web_war_exploded/img/p3.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/study_web_war_exploded/img/p3.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/study_web_war_exploded/img/pic.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/study_web_war_exploded/img/product-1.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/study_web_war_exploded/img/product-2.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/study_web_war_exploded/img/product-3.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/study_web_war_exploded/img/product-4.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/study_web_war_exploded/img/product-5.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/study_web_war_exploded/img/product-6.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/study_web_war_exploded/img/product-7.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/study_web_war_exploded/img/product-8.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/study_web_war_exploded/img/product-9.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/study_web_war_exploded/img/product_detail_body.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/study_web_war_exploded/img/product_detail_head.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/study_web_war_exploded/img/services-box1.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/study_web_war_exploded/img/services-box2.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/study_web_war_exploded/img/services-box3.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/study_web_war_exploded/img/services-box4.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/study_web_war_exploded/ztree/img/diy/1_close.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/study_web_war_exploded/ztree/img/diy/1_open.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/study_web_war_exploded/ztree/img/diy/2.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/study_web_war_exploded/ztree/img/diy/3.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/study_web_war_exploded/ztree/img/diy/4.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/study_web_war_exploded/ztree/img/diy/5.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/study_web_war_exploded/ztree/img/diy/6.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/study_web_war_exploded/ztree/img/diy/7.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/study_web_war_exploded/ztree/img/diy/8.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/study_web_war_exploded/ztree/img/diy/9.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/study_web_war_exploded/ztree/img/line_conn.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/study_web_war_exploded/ztree/img/loading.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/study_web_war_exploded/ztree/img/zTreeStandard.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/study_web_war_exploded/ztree/img/zTreeStandard.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/study-web/src/main/webapp/bootstrap/fonts/glyphicons-halflings-regular.eot" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/study-web/src/main/webapp/bootstrap/fonts/glyphicons-halflings-regular.ttf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/study-web/src/main/webapp/bootstrap/fonts/glyphicons-halflings-regular.woff" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/study-web/src/main/webapp/bootstrap/fonts/glyphicons-halflings-regular.woff2" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/study-web/src/main/webapp/fonts/FontAwesome.otf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/study-web/src/main/webapp/fonts/fontawesome-webfont.eot" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/study-web/src/main/webapp/fonts/fontawesome-webfont.ttf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/study-web/src/main/webapp/fonts/fontawesome-webfont.woff" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/study-web/src/main/webapp/fonts/fontawesome4.2/FontAwesome.otf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/study-web/src/main/webapp/fonts/fontawesome4.2/fontawesome-webfont.eot" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/study-web/src/main/webapp/fonts/fontawesome4.2/fontawesome-webfont.ttf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/study-web/src/main/webapp/fonts/fontawesome4.2/fontawesome-webfont.woff" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/study-web/src/main/webapp/fonts/glyphicons-halflings-regular.eot" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/study-web/src/main/webapp/fonts/glyphicons-halflings-regular.ttf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/study-web/src/main/webapp/fonts/glyphicons-halflings-regular.woff" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/study-web/src/main/webapp/img/carousel-1.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/study-web/src/main/webapp/img/carousel-2.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/study-web/src/main/webapp/img/carousel-3.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/study-web/src/main/webapp/img/logo.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/study-web/src/main/webapp/img/p1.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/study-web/src/main/webapp/img/p2.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/study-web/src/main/webapp/img/p3.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/study-web/src/main/webapp/img/p3.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/study-web/src/main/webapp/img/pic.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/study-web/src/main/webapp/img/product-1.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/study-web/src/main/webapp/img/product-2.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/study-web/src/main/webapp/img/product-3.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/study-web/src/main/webapp/img/product-4.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/study-web/src/main/webapp/img/product-5.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/study-web/src/main/webapp/img/product-6.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/study-web/src/main/webapp/img/product-7.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/study-web/src/main/webapp/img/product-8.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/study-web/src/main/webapp/img/product-9.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/study-web/src/main/webapp/img/product_detail_body.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/study-web/src/main/webapp/img/product_detail_head.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/study-web/src/main/webapp/img/services-box1.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/study-web/src/main/webapp/img/services-box2.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/study-web/src/main/webapp/img/services-box3.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/study-web/src/main/webapp/img/services-box4.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/study-web/src/main/webapp/ztree/img/diy/1_close.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/study-web/src/main/webapp/ztree/img/diy/1_open.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/study-web/src/main/webapp/ztree/img/diy/2.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/study-web/src/main/webapp/ztree/img/diy/3.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/study-web/src/main/webapp/ztree/img/diy/4.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/study-web/src/main/webapp/ztree/img/diy/5.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/study-web/src/main/webapp/ztree/img/diy/6.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/study-web/src/main/webapp/ztree/img/diy/7.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/study-web/src/main/webapp/ztree/img/diy/8.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/study-web/src/main/webapp/ztree/img/diy/9.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/study-web/src/main/webapp/ztree/img/line_conn.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/study-web/src/main/webapp/ztree/img/loading.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/study-web/src/main/webapp/ztree/img/zTreeStandard.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/study-web/src/main/webapp/ztree/img/zTreeStandard.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/study-web/target/classes/com/ssj/controller/UserController.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/study-web/target/classes/com/ssj/dao/User.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/study-web/target/classes/com/ssj/dao/UserDao.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/study-web/target/classes/com/ssj/service/UserService.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/study-web/target/classes/com/ssj/serviceImpl/UserServiceImpl.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/study-web/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/study-web/target/study-web.war" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/artifacts/study_web_war_exploded.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/compiler.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/copyright/profiles_settings.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/dictionaries/Mr_Sui.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/encodings.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/buy-common/buy-manager/pom.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/buy-common/buy-manager/target/maven-archiver/pom.properties" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/buy-common/buy-protal/pom.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/buy-common/buy-protal/target/maven-archiver/pom.properties" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/buy-common/pom.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/buy-common/src/main/java/com/ssj/dao/User.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/study_web_war_exploded/META-INF/MANIFEST.MF" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/study_web_war_exploded/WEB-INF/classes/mybatis/config.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/study_web_war_exploded/WEB-INF/classes/mybatis/mapper-user.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/study_web_war_exploded/WEB-INF/classes/spring/spring-context.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/study_web_war_exploded/WEB-INF/classes/spring/springmvc-context.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/study_web_war_exploded/WEB-INF/jsp/login.jsp" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/study_web_war_exploded/WEB-INF/jsp/user/index.jsp" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/study_web_war_exploded/WEB-INF/web.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/study_web_war_exploded/bootstrap/css/bootstrap-theme.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/study_web_war_exploded/bootstrap/css/bootstrap-theme.css.map" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/study_web_war_exploded/bootstrap/css/bootstrap-theme.min.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/study_web_war_exploded/bootstrap/css/bootstrap-theme.min.css.map" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/study_web_war_exploded/bootstrap/css/bootstrap.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/study_web_war_exploded/bootstrap/css/bootstrap.css.map" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/study_web_war_exploded/bootstrap/css/bootstrap.min.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/study_web_war_exploded/bootstrap/css/bootstrap.min.css.map" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/study_web_war_exploded/bootstrap/fonts/glyphicons-halflings-regular.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/study_web_war_exploded/bootstrap/js/bootstrap.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/study_web_war_exploded/bootstrap/js/bootstrap.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/study_web_war_exploded/bootstrap/js/npm.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/study_web_war_exploded/css/carousel.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/study_web_war_exploded/css/doc.min.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/study_web_war_exploded/css/font-awesome.min.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/study_web_war_exploded/css/login.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/study_web_war_exploded/css/main.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/study_web_war_exploded/css/theme.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/study_web_war_exploded/fonts/fontawesome-webfont.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/study_web_war_exploded/fonts/fontawesome4.2/fontawesome-webfont.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/study_web_war_exploded/fonts/glyphicons-halflings-regular.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/study_web_war_exploded/index.jsp" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/study_web_war_exploded/jquery/jquery-2.1.1.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/study_web_war_exploded/script/back-to-top.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/study_web_war_exploded/script/docs.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/study_web_war_exploded/script/echarts.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/study_web_war_exploded/ztree/jquery.ztree.all-3.5.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/artifacts/study_web_war_exploded/ztree/zTreeStyle.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pom.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/study-web/pom.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/study-web/src/main/java/com/ssj/controller/UserController.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/study-web/src/main/java/com/ssj/dao/UserDao.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/study-web/src/main/java/com/ssj/service/UserService.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/study-web/src/main/java/com/ssj/serviceImpl/UserServiceImpl.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/study-web/src/main/resources/mybatis/config.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/study-web/src/main/resources/mybatis/mapper-user.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/study-web/src/main/resources/spring/spring-context.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/study-web/src/main/resources/spring/springmvc-context.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/study-web/src/main/webapp/WEB-INF/jsp/login.jsp" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/study-web/src/main/webapp/WEB-INF/jsp/user/index.jsp" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/study-web/src/main/webapp/WEB-INF/web.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/study-web/src/main/webapp/bootstrap/css/bootstrap-theme.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/study-web/src/main/webapp/bootstrap/css/bootstrap-theme.css.map" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/study-web/src/main/webapp/bootstrap/css/bootstrap-theme.min.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/study-web/src/main/webapp/bootstrap/css/bootstrap-theme.min.css.map" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/study-web/src/main/webapp/bootstrap/css/bootstrap.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/study-web/src/main/webapp/bootstrap/css/bootstrap.css.map" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/study-web/src/main/webapp/bootstrap/css/bootstrap.min.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/study-web/src/main/webapp/bootstrap/css/bootstrap.min.css.map" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/study-web/src/main/webapp/bootstrap/fonts/glyphicons-halflings-regular.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/study-web/src/main/webapp/bootstrap/js/bootstrap.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/study-web/src/main/webapp/bootstrap/js/bootstrap.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/study-web/src/main/webapp/bootstrap/js/npm.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/study-web/src/main/webapp/css/carousel.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/study-web/src/main/webapp/css/doc.min.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/study-web/src/main/webapp/css/font-awesome.min.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/study-web/src/main/webapp/css/login.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/study-web/src/main/webapp/css/main.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/study-web/src/main/webapp/css/theme.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/study-web/src/main/webapp/fonts/fontawesome-webfont.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/study-web/src/main/webapp/fonts/fontawesome4.2/fontawesome-webfont.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/study-web/src/main/webapp/fonts/glyphicons-halflings-regular.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/study-web/src/main/webapp/index.jsp" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/study-web/src/main/webapp/jquery/jquery-2.1.1.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/study-web/src/main/webapp/script/back-to-top.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/study-web/src/main/webapp/script/docs.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/study-web/src/main/webapp/script/echarts.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/study-web/src/main/webapp/ztree/jquery.ztree.all-3.5.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/study-web/src/main/webapp/ztree/zTreeStyle.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/study-web/target/classes/mybatis/config.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/study-web/target/classes/mybatis/mapper-user.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/study-web/target/classes/spring/spring-context.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/study-web/target/classes/spring/springmvc-context.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/study-web/target/maven-archiver/pom.properties" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/study-web/target/study-web/META-INF/MANIFEST.MF" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/study-web/src/main/java/com/ssj/dao/UserDao.java" afterPath="$PROJECT_DIR$/study-web/src/main/java/com/ssj/dao/UserDao.java" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -292,6 +16,7 @@
     <ignored path="$PROJECT_DIR$/buy-common/buy-protal/target/" />
     <ignored path="$PROJECT_DIR$/buy-common/buy-manager/target/" />
     <ignored path="$PROJECT_DIR$/study-web/target/" />
+    <ignored path=".idea/dataSources.local.xml" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -412,8 +137,8 @@
       <file leaf-file-name="UserDao.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/study-web/src/main/java/com/ssj/dao/UserDao.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="285">
-              <caret line="15" column="0" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
+            <state relative-caret-position="209">
+              <caret line="11" column="4" selection-start-line="11" selection-start-column="4" selection-end-line="11" selection-end-column="4" />
               <folding />
             </state>
           </provider>
@@ -1186,16 +911,16 @@
       <workItem from="1544662293322" duration="4935000" />
       <workItem from="1544748742859" duration="23785000" />
       <workItem from="1544928020849" duration="4035000" />
-      <workItem from="1544976962407" duration="1026000" />
+      <workItem from="1544976962407" duration="1347000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="72225000" />
+    <option name="totallyTimeSpent" value="72546000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="298" y="92" width="1358" height="779" extended-state="0" />
-    <editor active="false" />
+    <editor active="true" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
@@ -1207,7 +932,7 @@
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Spring" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3119403" sideWeight="0.49701938" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3119403" sideWeight="0.49701938" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24962743" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
@@ -1605,8 +1330,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/study-web/src/main/java/com/ssj/dao/UserDao.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="285">
-          <caret line="15" column="0" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
+        <state relative-caret-position="209">
+          <caret line="11" column="4" selection-start-line="11" selection-start-column="4" selection-end-line="11" selection-end-column="4" />
           <folding />
         </state>
       </provider>
